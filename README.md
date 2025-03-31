@@ -39,10 +39,10 @@ I enjoy working at the intersection of **LLMs**, **machine learning**, and **cyb
 
 ## 💼 Notable Projects
 
-### 🎬 Emotional Tone Prediction in Movie Descriptions  
+### 🎬 Fine-tuning RoBERTa for emotional prediction using GPT-4o-mini as a Teacher model:  
 Built a robust emotion classifier using **RoBERTa** fine-tuned with **GPT-4o-mini** guidance. Achieved over **95% accuracy** across **29 emotional tones** in movie plots.
 
-### 🛡️ Android Malware Detection using Machine Learning  
+### 🛡️ Android Malware Detection using Machine Learning:  
 Developed a malware detection pipeline using **489 hybrid features** (static & dynamic) across emulator and real device datasets. Evaluated with **tree-based** and **neural models**.
 
 ---
