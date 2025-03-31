@@ -1,69 +1,76 @@
-# 👋 Hi, I'm Teja-Pravallika
+<h1 align="center">👋 Hi, I'm Teja-Pravallika</h1>
 
-🎓 Computer Science Graduate from Northern Arizona University  
-🔬 Research Assistant exploring vulnerabilities in Multimodal LLMs  
-🤖 ML & NLP Enthusiast | 🔐 AI Security Researcher | 🌱 Lifelong Learner  
+<p align="center">
+  🎓 Computer Science Grad • 🤖 ML & NLP Enthusiast • 🔐 AI Security Researcher • 🌱 Lifelong Learner  
+</p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a passionate Computer Science graduate currently working as a **Research Assistant** focused on **AI security**. My research investigates **prompt injection attacks** in **Multimodal Large Language Models (MLLMs)**—a space where model robustness, adversarial testing, and safety converge.
+I'm a curious and passionate Computer Science graduate from **Northern Arizona University**, currently working as a **Research Assistant** exploring **AI Security**. My work focuses on identifying and mitigating **vulnerabilities in Multimodal Large Language Models (MLLMs)** — especially **prompt injection attacks**.  
 
-I enjoy building intelligent systems that not only solve real-world problems but also ensure AI models are ethical, interpretable, and secure.
+I enjoy working at the intersection of **LLMs**, **machine learning**, and **cybersecurity**, aiming to build **robust and trustworthy AI systems**.
 
 ---
 
 ## 🚀 What I Do
 
-- 🔍 Researching **prompt injection**, **jailbreaks**, and robustness in LLMs  
-- 🧠 Fine-tuning & distilling transformer-based models for tone/emotion prediction  
-- 🛡️ Developing ML pipelines for **Android malware detection**  
-- ✨ Passionate about the intersection of **machine learning**, **NLP**, and **cybersecurity**
+- 🔬 Conduct research on **adversarial attacks** in LLMs (prompt injection, jailbreaks, robustness)
+- 🧠 Fine-tune and distill **transformer-based models** for emotion and tone classification
+- 🤖 Build intelligent systems for **text analysis**, **malware detection**, and **emotion modeling**
+- 📱 Developed ML-based systems for **Android malware detection** using hybrid feature sets
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- Languages: `Python`, `SQL`  
-- ML/DL: `PyTorch`, `TensorFlow`, `Scikit-learn`  
-- LLMs: `Prompt Engineering`, `LLM Fine-Tuning`, `Hugging Face Transformers`  
-- Tools: `Git`, `Jupyter`, `VSCode`, `Pandas`, `NumPy`  
-- Research Focus: `Adversarial ML`, `NLP`, `Multimodal Models`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-lightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-## ✨ A Few Highlights
+## 💼 Notable Projects
 
-- 🎬 **Emotional Tone Prediction in Movie Descriptions**  
-  Fine-tuned **RoBERTa** with **GPT-4o-mini** guidance to classify **29 emotional tones** — achieved over **95% accuracy**.
+### 🎬 Emotional Tone Prediction in Movie Descriptions  
+Built a robust emotion classifier using **RoBERTa** fine-tuned with **GPT-4o-mini** guidance. Achieved over **95% accuracy** across **29 emotional tones** in movie plots.
 
-- 🛡️ **Android Malware Detection using Machine Learning**  
-  Built a malware classification pipeline using **489 hybrid features** (static + dynamic) across **emulator and real-device** datasets.
-
----
-
-## 🌱 What I'm Exploring
-
-- 🔐 Building safer, more explainable NLP pipelines  
-- 🔎 Prompt attack defense strategies in LLMs  
-- 🌐 Multimodal LLM architectures combining vision + language  
-- 🧪 AI alignment and interpretability in research
+### 🛡️ Android Malware Detection using Machine Learning  
+Developed a malware detection pipeline using **489 hybrid features** (static & dynamic) across emulator and real device datasets. Evaluated with **tree-based** and **neural models**.
 
 ---
 
-## 🤝 Let's Connect
+## 🔍 Current Focus
 
-📫 Reach me at:  
-[LinkedIn](https://www.linkedin.com/in/teja-pravallika-nandamuri-81b600262/) • `teja.nandamuri@gmail.com`
+- 🧪 Researching adversarial prompting and LLM vulnerabilities
+- 📊 Improving explainability and interpretability in NLP pipelines
+- 🌐 Exploring multimodal learning and vision-language integration
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/teja-pravallika-nandamuri-81b600262/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nandamuritejapravallika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🌈 Fun Facts
 
 - 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: I love combining creativity with AI—whether it’s predicting emotions from movie plots or testing how far LLMs can be pushed before they break 😉
+- ⚡ Fun Fact: I love combining creativity with AI — from emotion prediction in storytelling to securing large-scale LLMs.
 
 ---
-
-> Thanks for visiting my profile! Always open to collaborations in ML, NLP, and AI safety 🌱
