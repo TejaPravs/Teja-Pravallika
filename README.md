@@ -1,16 +1,24 @@
 <h1 align="center">👋 Hi, I'm Teja-Pravallika</h1>
+<h3 align="center">🤖 AI/ML Engineer • 🚀 Generative AI • 🧠 NLP • 📈 LLM Evaluation • 🛡️ AI Security • 🌱 Lifelong Learner
+
+</h3>  </h3>
 
 <p align="center">
-  🎓 Computer Science Grad • 🤖 ML & NLP Enthusiast • 🔐 AI Security Researcher • 🌱 Lifelong Learner  
+  <a href="https://www.linkedin.com/in/teja-pravallika-n-81b600262">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nandamuritejapravallika@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a curious and passionate Computer Science graduate from **Northern Arizona University**, currently working as a **Research Assistant** exploring **AI Security**. My work focuses on identifying and mitigating **vulnerabilities in Multimodal Large Language Models (MLLMs)** — especially **prompt injection attacks**.  
+I'm an AI/ML Engineer with experience building Machine Learning, NLP, and Generative AI solutions across healthcare, enterprise automation, and AI research.
 
-I enjoy working at the intersection of **LLMs**, **machine learning**, and **cybersecurity**, aiming to build **robust and trustworthy AI systems**.
+My work spans Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), model evaluation, AI security, multimodal learning, and production-scale AI systems. I enjoy building intelligent applications that are scalable, explainable, and reliable.
 
 ---
 
@@ -47,30 +55,19 @@ Developed a malware detection pipeline using **489 hybrid features** (static & d
 
 ---
 
-## 🔍 Current Focus
-
-- 🧪 Researching adversarial prompting and LLM vulnerabilities
-- 📊 Improving explainability and interpretability in NLP pipelines
-- 🌐 Exploring multimodal learning and vision-language integration
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/teja-pravallika-nandamuri-81b600262/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nandamuritejapravallika@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+## 🌱 Current Focus
+- 🤖 Agentic AI Systems & Autonomous Workflows
+- 🔍 Retrieval-Augmented Generation (RAG) & Semantic Search
+- 🧠 Large Language Models & Multimodal AI
+- 📊 LLM Evaluation, Reliability & Model Monitoring
+- ⚙️ Production AI Infrastructure, MLOps & CI/CD
+- 🏥 Healthcare AI & Ambient Clinical Documentation
+- 🔗 LangGraph, AI Agents & Workflow Orchestration
 ---
 
 ## 🌈 Fun Facts
 
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun Fact: I love combining creativity with AI — from emotion prediction in storytelling to securing large-scale LLMs.
-
+- 💡 Open to collaborations, research opportunities, and AI/ML projects.
 ---
